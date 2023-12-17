@@ -1,0 +1,118 @@
+h1 {
+    text-align: center;
+    color: darkorange;
+}
+
+.sub1 {
+    text-align: center;
+    border: 2px inset orangered;
+    margin: 2px;
+    border-radius: 2em;
+    margin-top: 5em;
+}
+
+.p1 {
+    text-align: center;
+    padding: 3px;
+    border-style: inset;
+    border-color: orangered;
+    background-color: orangered;
+    padding: 2em;
+    border-radius: 2em;
+}
+
+.nlrugby {
+    margin-top: 2em;
+}
+
+
+.sub2 {
+    text-align: center;
+    border-style: inset;
+    border-color: orangered;
+    background: url(pics/rugby\ nederland.png);
+    background-size: 2em;
+    margin-top: 5em;
+}
+
+.p2 {
+    text-align: center;
+    border-style: inset;
+    border-color: orangered;
+    background-color: orangered;
+    padding: 2em;
+    border-radius: 2em;
+}
+
+.rugbynl {
+    border: 2em;
+    border-style: inset;
+    border-color: orangered;
+}
+
+h3 {
+    text-align: center;
+} 
+.nl {
+    width: fit-content;
+}
+
+
+.div1 {
+    text-align: center;
+}
+
+.div1 {
+    color: orange;
+}
+
+.pics {
+    width: 150%;
+    height: 150%;
+    flex: auto;
+}
+
+.pics-1 {
+    width: 5%;
+    height: 5%;
+    flex: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orange;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: dotted;
+}
+
+li a:hover {
+    background-color: orange;
+}
+.club{
+    background-color: orange;
+    text-align: center;
+    margin-left: 50%;
+    
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    width: 98vw;
+    height: 98vh;
+}
